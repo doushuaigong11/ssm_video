@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm_video:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/webapp/after/userList.html" line="149" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5659e60b-4094-4677-aa76-9bad07943dcf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/controller/AdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/controller/CourseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/controller/SpeakController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/controller/VideoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/controller/userController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/dao/AdminMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/dao/AdminMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/dao/CourseMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/dao/CourseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/dao/SpeakerMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/dao/SpeakerMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/dao/SubjectMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/dao/SubjectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/dao/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/dao/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/dao/VideoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/dao/VideoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/AdminExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/AdminExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/AdminExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/AdminExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/CourseExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/CourseExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/CourseExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/CourseExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/Speaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/SpeakerExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/SpeakerExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/SpeakerExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/SpeakerExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/SubjectExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/SubjectExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/SubjectExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/SubjectExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/UserExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/UserExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/UserExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/UserExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/Video.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/VideoExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/VideoExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/VideoExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/pojo/VideoExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/service/AdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/service/CourseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/service/SpeakerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/service/VideoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/service/impl/CourseServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/service/impl/SpeakerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/service/impl/VideoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zz/utils/GeneratorSqlmap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/controller/AdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/controller/CourseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/controller/SpeakController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/controller/VideoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/controller/userController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/dao/AdminMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/dao/AdminMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/dao/CourseMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/dao/CourseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/dao/SpeakerMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/dao/SpeakerMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/dao/SubjectMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/dao/SubjectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/dao/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/dao/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/dao/VideoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/dao/VideoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/AdminExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/AdminExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/AdminExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/AdminExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/CourseExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/CourseExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/CourseExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/CourseExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/Speaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/SpeakerExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/SpeakerExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/SpeakerExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/SpeakerExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/SubjectExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/SubjectExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/SubjectExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/SubjectExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/UserExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/UserExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/UserExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/UserExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/Video.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/VideoExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/VideoExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/VideoExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/pojo/VideoExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/service/AdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/service/CourseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/service/SpeakerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/service/VideoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/service/impl/CourseServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/service/impl/SpeakerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/service/impl/VideoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/com/zz/utils/GeneratorSqlmap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/classes/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/jsp/404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/jsp/before/change_avatar.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/jsp/before/change_profile.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/jsp/before/course.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/jsp/before/forget_password.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/jsp/before/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/jsp/before/my_profile.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/jsp/before/password_safe.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/jsp/before/reset_password.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/jsp/before/section.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/jsp/behind/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/jsp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/activation-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/aspectjweaver-1.9.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/druid-1.1.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/jackson-annotations-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/jackson-core-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/jackson-databind-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/javax.mail-1.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/jsqlparser-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/lombok-1.18.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/mybatis-3.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/mybatis-generator-core-1.3.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/mybatis-spring-2.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/mysql-connector-java-8.0.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/pagehelper-5.1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/spring-aop-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/spring-beans-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/spring-context-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/spring-core-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/spring-expression-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/spring-jcl-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/spring-jdbc-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/spring-tx-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/spring-web-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/lib/spring-webmvc-5.2.7.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/after/SpeakerList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/after/courseList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/after/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/after/userList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/after/videoList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/._base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/._css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/._font" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/._forget_password.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/._jquery.Jcrop.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/._profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/._video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/font/._vjs.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/font/._vjs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/font/._vjs.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/font/._vjs.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/font/vjs.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/font/vjs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/font/vjs.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/font/vjs.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/forget_password.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/jquery.Jcrop.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/css/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/images/error.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/android.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/avatar_lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/banner-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/banner-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/banner-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/banner-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/banner-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/banner-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/bigdata.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/count.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/error.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/footer1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/footer2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/footer3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/footer4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/footer_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/hl_scroll_left1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/html5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/java.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/left-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/nav_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/nav_down2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/password.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/php.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/python.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/q.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/qidai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/right-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/sc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/teacher-wjh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/tele.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/ui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/we.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/yzm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/微信公众号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/img/微博公众号.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._Jcrop_upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._jquery-1.8.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._jquery.Jcrop.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._jquery.cityselect.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._mobile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._readmore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._skin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._vueCourse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/._vueSection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/Jcrop_upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/confirm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/gVerify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/jquery-1.8.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/jquery.Jcrop.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/jquery.cityselect.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/mobile/._layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/mobile/._need" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/mobile/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/mobile/need/._layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/mobile/need/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/readmore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/skin/._default" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/skin/default/._icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/skin/default/._icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/skin/default/._layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/skin/default/._loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/skin/default/._loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/skin/default/._loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/skin/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/skin/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/skin/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/skin/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/skin/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/skin/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/vueCourse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/js/vueSection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/transfer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/ssm_video/layui/layui.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../ssm_video\exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ssm_video" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XML" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>speqa</find>
+      <find>speakerId</find>
+      <find>addVideo</find>
+      <find>coursesId</find>
+      <find>gvfErguhkjbghtwhaebh</find>
+      <find>updateByPrimaryKeySelective</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/utils/GeneratorSqlmap.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/list.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/videoList.html" />
+        <option value="$PROJECT_DIR$/target/ssm_video/after/list.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/service/impl/CouserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/pojo/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/pojo/Subject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/service/VideoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/dao/VideoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/pojo/Speaker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/service/SpeakerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/dao/SpeakerMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/service/impl/VideoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/service/CourseService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/dao/CourseMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/zz/dao/CourseMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/zz/dao/SpeakerMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/service/impl/SpeakerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/after/SpeakerList.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/controller/SpeakController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/controller/CourseController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/service/impl/CourseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/after/courseList.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/utils/MailUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/pojo/Admin.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/layui/css/layui.css" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/pojo/Video.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/dao/AdminMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/zz/dao/AdminMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/service/impl/AdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/behind/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/pojo/User.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/zz/dao/VideoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/controller/VideoController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/controller/userController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/after/videoList.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/zz/dao/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/after/userList.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/after/list.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zz/pojo/Vquery.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\admin\m2\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm_video Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm_video Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="337" />
+    <option name="y" value="-23" />
+    <option name="width" value="1780" />
+    <option name="height" value="964" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ssm_video" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm_video" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2514029" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaProject\ssm_video\src\main\webapp\after" />
+      <recent name="E:\ideaProject\ssm_video\src\main\webapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaProject\ssm_video\src\main\webapp\js" />
+      <recent name="E:\ideaProject\ssm_video\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomact 8.5">
+    <configuration name="GeneratorSqlmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zz.utils.GeneratorSqlmap" />
+      <module name="ssm_video" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zz.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomact 8.5" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.231" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ssm_video:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ssm_video" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52658" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm_video:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GeneratorSqlmap" />
+      <item itemvalue="Tomcat Server.tomact 8.5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GeneratorSqlmap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5659e60b-4094-4677-aa76-9bad07943dcf" name="Default Changelist" comment="" />
+      <created>1595935039335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595935039335</updated>
+      <workItem from="1595935044362" duration="11352000" />
+      <workItem from="1595981025346" duration="15944000" />
+      <workItem from="1596009642517" duration="9441000" />
+      <workItem from="1596021790588" duration="9926000" />
+      <workItem from="1596067252005" duration="335000" />
+      <workItem from="1596067718817" duration="12030000" />
+      <workItem from="1596092524362" duration="26260000" />
+      <workItem from="1596153588854" duration="15033000" />
+      <workItem from="1596192875206" duration="5752000" />
+      <workItem from="1596244124076" duration="7094000" />
+      <workItem from="1596372157668" duration="11000" />
+      <workItem from="1596414888484" duration="1231000" />
+      <workItem from="1596528151942" duration="5587000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="119996000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985294" visible="true" weight="0.15461847" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50147057" side_tool="true" weight="0.18005355" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32957748" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6619813" weight="0.11994003" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.20422535" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.33801875" side_tool="true" visible="true" weight="0.28732395" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.04225352" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.16532798" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985294" visible="true" weight="0.021929825" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50147057" side_tool="true" weight="0.18005355" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32957748" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6619813" visible="true" weight="0.11416185" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.20422535" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.33801875" side_tool="true" weight="0.5971831" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.04225352" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.16532798" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/VideoExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14121">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/ssm_video/after/list.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/SpeakerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2024">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="737">
+          <caret line="79" column="25" lean-forward="true" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/Speaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/dao/CourseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/service/SpeakerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/dao/SpeakerMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/zz/dao/SpeakerMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/service/impl/SpeakerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/service/CourseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/service/impl/CourseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/zz/dao/CourseMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2637">
+          <caret line="8" column="68" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/controller/CourseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="59" column="33" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/utils/MailUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/AdminExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/layui/css/layui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="26608" selection-start-line="1" selection-start-column="26608" selection-end-line="1" selection-end-column="26608" />
+          <folding>
+            <element signature="e#63890#64029#2" expanded="true" />
+            <element signature="e#65483#65622#2" expanded="true" />
+            <element signature="e#66170#66309#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/zz/dao/AdminMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="105" selection-start-line="11" selection-start-column="105" selection-end-line="11" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/dao/AdminMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/controller/SpeakController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/service/VideoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/service/impl/VideoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/dao/VideoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/zz/dao/VideoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3850">
+          <caret line="181" column="18" lean-forward="true" selection-start-line="181" selection-start-column="18" selection-end-line="181" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/controller/VideoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/behind/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/before/section.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/service/impl/AdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/before/change_avatar.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="94" selection-start-line="14" selection-start-column="94" selection-end-line="14" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/after/courseList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4092">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#747#748#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/zz/dao/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="270" column="18" lean-forward="true" selection-start-line="270" selection-start-column="18" selection-end-line="270" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/after/userList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="235" selection-start-line="235" selection-end-line="235" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/after/SpeakerList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1051">
+          <caret line="238" column="62" selection-start-line="238" selection-start-column="8" selection-end-line="238" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="41" column="22" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/controller/userController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1421#1422#0" expanded="true" />
+            <element signature="e#1469#1470#0" expanded="true" />
+            <element signature="e#1542#1543#0" expanded="true" />
+            <element signature="e#1588#1589#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/after/videoList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zz/pojo/Vquery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/after/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
